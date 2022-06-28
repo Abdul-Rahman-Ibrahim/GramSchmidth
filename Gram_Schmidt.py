@@ -22,4 +22,4 @@ def gramSchmidt(A):
         frac = Fraction(str(val)).limit_denominator()
         orthVectors[i] = frac
         
-    return orthVectors"
+    return orthVectors
